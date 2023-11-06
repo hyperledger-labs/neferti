@@ -3,6 +3,7 @@ repository:
 
   description: neferti lab
 
+  archived: true
   private: false
   has_issues: true
   has_projects: false
